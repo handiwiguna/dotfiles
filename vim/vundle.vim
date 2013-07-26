@@ -37,5 +37,6 @@ Bundle 'tpope/vim-unimpaired'
 Bundle 'godlygeek/tabular'
 Bundle 'jeetsukumaran/vim-buffergator'
 Bundle 'sjbach/lusty'
+Bundle 'christoomey/vim-tmux-navigator'
 
 filetype plugin indent on

@@ -1,4 +1,5 @@
 set nocompatible
+set clipboard=unnamed
 
 let mapleader=","
 
